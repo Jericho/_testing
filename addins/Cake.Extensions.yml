@@ -1,0 +1,14 @@
+Name: Cake.Extensions
+Nuget: Cake.Extensions
+Assemblies:
+- "/**/Cake.Extensions.dll"
+Repository: https://github.com/wwwlicious/Cake.Incubator
+Author: wwwlicious
+Description: "This package has been renamed to Cake.Incubator"
+Categories:
+- Cake,
+- Build,
+- Script,
+- Extensions,
+- Project,
+- Solution

@@ -1,0 +1,15 @@
+Name: Cake.Prca
+Nuget: Cake.Prca
+Assemblies:
+- "/**/Cake.Prca.dll"
+Repository: https://github.com/cake-contrib/Cake.Prca
+Author: BBT Software AG
+Description: "This addin is no longer maintained. Please use Cake.Issues and Cake.Issues.PullRequests instead.
+
+The Pull Request Code Analysis Addin for Cake allows you to write issue found using any code analyzer or linter as comments to pull requests."
+Categories:
+- Cake,
+- Script,
+- PullRequest,
+- CodeAnalysis,
+- Linting

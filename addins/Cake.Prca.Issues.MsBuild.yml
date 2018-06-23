@@ -1,0 +1,17 @@
+Name: Cake.Prca.Issues.MsBuild
+Nuget: Cake.Prca.Issues.MsBuild
+Assemblies:
+- "/**/Cake.Prca.Issues.MsBuild.dll"
+Repository: https://github.com/cake-contrib/Cake.Prca.Issues.MsBuild
+Author: BBT Software AG
+Description: "This addin is no longer maintained. Please use Cake.Issues.MsBuild instead. 
+
+The MsBuild support for the Pull Request Code Analysis Addin for Cake allows you to write any issues logged as warnings in a MsBuild log as comments to a pull request."
+Categories:
+- Cake,
+- Script,
+- PullRequest,
+- CodeAnalysis,
+- Cake-Prca-IssueProvider,
+- Linting,
+- MsBuild

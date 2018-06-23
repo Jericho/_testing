@@ -1,0 +1,12 @@
+Name: Cake.SemVer.FromBinary
+Nuget: Cake.SemVer.FromBinary
+Assemblies:
+- "/**/Cake.SemVer.FromBinary.dll"
+Repository: https://github.com/wallymathieu/Cake.SemVer.FromAssembly
+Author: wallymathieu
+Description: "NOTE: This package has been deprecated.  Please use Cake.SynVer instead.
+    
+Cake addin in order to be able to get next semver version of nuget package based on changes to the public API"
+Categories:
+- semver,
+- Cake

@@ -1,0 +1,17 @@
+Name: Cake.Prca.Issues.DocFx
+Nuget: Cake.Prca.Issues.DocFx
+Assemblies:
+- "/**/Cake.Prca.Issues.DocFx.dll"
+Repository: https://github.com/cake-contrib/Cake.Prca.Issues.DocFx
+Author: BBT Software AG
+Description: "This addin is no longer maintained. Please use Cake.Issues.DocFx instead. 
+
+The DocFx support for the Pull Request Code Analysis Addin for Cake allows you to write any warnings logged by DocFx as comments to a pull request."
+Categories:
+- Cake,
+- Script,
+- PullRequest,
+- CodeAnalysis,
+- Cake-Prca-IssueProvider,
+- Markdown,
+- DocFx

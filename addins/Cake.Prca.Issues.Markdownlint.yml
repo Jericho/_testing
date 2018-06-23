@@ -1,0 +1,18 @@
+Name: Cake.Prca.Issues.Markdownlint
+Nuget: Cake.Prca.Issues.Markdownlint
+Assemblies:
+- "/**/Cake.Prca.Issues.Markdownlint.dll"
+Repository: https://github.com/cake-contrib/Cake.Prca.Issues.Markdownlint
+Author: BBT Software AG
+Description: "This addin is no longer maintained. Please use Cake.Issues.Markdownlint instead. 
+
+The Markdownlint support for the Pull Request Code Analysis Addin for Cake allows you to write any issues logged by Markdownlint as comments to a pull request."
+Categories:
+- Cake,
+- Script,
+- PullRequest,
+- CodeAnalysis,
+- Cake-Prca-IssueProvider,
+- Markdown,
+- Linting,
+- Markdownlint

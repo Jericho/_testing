@@ -1,0 +1,10 @@
+Name: Cake.Watch_Advance
+Nuget: Cake.Watch_Advance
+Assemblies:
+- "/**/Cake.Watch_Advance.dll"
+Repository: https://github.com/cake-addin/cake-watch
+Author: cake-addin
+Description: "Cake_Watch_Advance"
+Categories:
+- Cake,
+- Watch
