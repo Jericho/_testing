@@ -1,0 +1,11 @@
+Name: Cake.OpenCoverToCoberturaConverter
+Nuget: Cake.OpenCoverToCoberturaConverter
+Assemblies:
+- "/**/Cake.OpenCoverToCoberturaConverter.dll"
+Repository: https://github.com/volak/Cake.OpenCoverToCoberturaConverter
+Author: volak
+Description: "Cake addin for OpenCoverToCoberturaConverter"
+Categories:
+- Cake,
+- addin,
+- OpenCoverToCoberturaConverter

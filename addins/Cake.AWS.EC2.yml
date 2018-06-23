@@ -1,0 +1,13 @@
+Name: Cake.AWS.EC2
+Nuget: Cake.AWS.EC2
+Assemblies:
+- "/**/Cake.AWS.EC2.dll"
+Repository: https://github.com/SharpeRAD/Cake.AWS.EC2
+Author: SharpeRAD
+Description: "Cake Build addon for configuring Amazon Elastic Compute Cloud."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Amazon,
+- EC2

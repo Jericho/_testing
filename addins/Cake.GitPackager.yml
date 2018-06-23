@@ -1,0 +1,11 @@
+Name: Cake.GitPackager
+Nuget: Cake.GitPackager
+Assemblies:
+- "/**/Cake.GitPackager.dll"
+Repository: https://github.com/ilich/Cake.GitPackager
+Author: ilich
+Description: "Cake AddIn which copies files based on Git log."
+Categories:
+- Cake,
+- Git,
+- Deployment

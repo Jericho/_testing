@@ -1,0 +1,13 @@
+Name: Cake.SqlServerPackager
+Nuget: Cake.SqlServerPackager
+Assemblies:
+- "/**/Cake.SqlServerPackager.dll"
+Repository: https://github.com/ilich/Cake.SqlServerPackager
+Author: ilich
+Description: "Cake AddIn that packages multiple SQL Scripts into one file to speed up deployment and minimize the probability of errors."
+Categories:
+- Cake,
+- Script,
+- Git,
+- Merge,
+- SQL

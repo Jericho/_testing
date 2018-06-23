@@ -1,0 +1,13 @@
+Name: Cake.Tfs.AutoMerge
+Nuget: Cake.Tfs.AutoMerge
+Assemblies:
+- "/**/Cake.Tfs.AutoMerge.dll"
+Repository: https://github.com/mabreuortega/Cake.Tfs
+Author: mabreuortega
+Description: "This a Cake extension to implement GitFlow auto merge for TFS."
+Categories:
+- Cake,
+- PullRequest,
+- TFS,
+- Git,
+- Merge

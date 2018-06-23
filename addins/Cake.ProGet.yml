@@ -1,0 +1,14 @@
+Name: Cake.ProGet
+Nuget: Cake.ProGet
+Assemblies:
+- "/**/Cake.ProGet.dll"
+Repository: https://github.com/apprenda/Cake.ProGet/
+Author: apprenda
+Description: "Cake ProGet Addin."
+Categories:
+- Cake,
+- Script,
+- Build,
+- ProGet,
+- Addin,
+- upack

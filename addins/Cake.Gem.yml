@@ -1,0 +1,12 @@
+Name: Cake.Gem
+Nuget: Cake.Gem
+Assemblies:
+- "/**/Cake.Gem.dll"
+Repository: https://github.com/cake-contrib/Cake.Gem/
+Author: gep13
+Description: "Cake Gem AddIn."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Gem

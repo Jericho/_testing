@@ -1,0 +1,13 @@
+Name: Cake.Grunt
+Nuget: Cake.Grunt
+Assemblies:
+- "/**/Cake.Grunt.dll"
+Repository: https://github.com/cake-contrib/Cake.Grunt/
+Author: Ken Lea
+Description: "Cake Grunt Addin."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Grunt,
+- Addin

@@ -1,0 +1,10 @@
+Name: Cake.KeePass
+Nuget: Cake.KeePass
+Assemblies:
+- "/**/Cake.KeePass.dll"
+Repository: https://github.com/ashthos/Cake.KeePass
+Author: ashthos
+Description: "Wraps KeePass functionality into a CakeBuild addin."
+Categories:
+- Cake,
+- KeePass

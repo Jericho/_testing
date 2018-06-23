@@ -1,0 +1,12 @@
+Name: Cake.VsCode
+Nuget: Cake.VsCode
+Assemblies:
+- "/**/Cake.VsCode.dll"
+Repository: https://github.com/cake-contrib/Cake.VsCode/
+Author: gep13
+Description: "Cake VsCode AddIn."
+Categories:
+- Cake,
+- Script,
+- Build,
+- VsCode

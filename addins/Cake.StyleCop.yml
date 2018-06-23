@@ -1,0 +1,10 @@
+Name: Cake.StyleCop
+Nuget: Cake.StyleCop
+Assemblies:
+- "/**/Cake.StyleCop.dll"
+Repository: https://github.com/ashthos/Cake.StyleCop
+Author: ashthos
+Description: "Wraps StyleCop functionality into a CakeBuild addin. Does not require StyleCop to have been integrated with the solution or installed on the build machine."
+Categories:
+- Cake,
+- StyleCop

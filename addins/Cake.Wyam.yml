@@ -1,0 +1,15 @@
+Name: Cake.Wyam
+Nuget: Cake.Wyam
+Assemblies:
+- "/**/Cake.Wyam.dll"
+Repository: https://wyam.io/
+Author: Dave Glick, Other Awesome Contributors
+Description: "Wyam is a simple to use, highly modular, and extremely configurable static content generator. This library contains an addin for Cake for interacting with Wyam."
+Categories:
+- Cake,
+- Wyam,
+- Static,
+- StaticContent,
+- StaticSite,
+- Blog,
+- BlogEngine

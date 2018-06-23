@@ -1,0 +1,17 @@
+Name: Cake.AppleSimulator
+Nuget: Cake.AppleSimulator
+Assemblies:
+- "/**/Cake.AppleSimulator.dll"
+Repository: https://github.com/cake-contrib/Cake.AppleSimulator
+Author: Geoffrey Huntley
+Description: "Cake Build addin for managing Apple (iOS/TV/Watch) simulators."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Xamarin,
+- iOS,
+- watchOS,
+- tvOS,
+- Simulator,
+- simctl

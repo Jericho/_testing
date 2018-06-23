@@ -1,0 +1,13 @@
+Name: Cake.SynVer
+Nuget: Cake.SynVer
+Assemblies:
+- "/**/Cake.SynVer.dll"
+Repository: https://github.com/fsprojects/Cake.SynVer
+Author: fsprojects
+Description: "Cake addin in order to be able to get next syntactic (semantic) version of nuget package based on changes to the public API"
+Categories:
+- semver,
+- synver,
+- Cake,
+- syntactic-versioning,
+- semantic-versioning

@@ -1,0 +1,10 @@
+Name: Cake.JMeter
+Nuget: Cake.JMeter
+Assemblies:
+- "/**/Cake.JMeter.dll"
+Repository: https://github.com/pitermarx/Cake.JMeter
+Author: pitermarx
+Description: "Cake aliases for JMeter. To be used in conjunction with the JMeter tool."
+Categories:
+- cake,
+- jmeter

@@ -1,0 +1,14 @@
+Name: Cake.XCode
+Nuget: Cake.XCode
+Assemblies:
+- "/**/Cake.XCode.dll"
+Repository: https://github.com/redth/Cake.XCode
+Author: redth
+Description: "Cake Build addon for XCode and CocoaPods."
+Categories:
+- Cake,
+- Script,
+- Build,
+- XCode,
+- CocoaPods,
+- Pod

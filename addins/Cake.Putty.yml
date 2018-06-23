@@ -1,0 +1,12 @@
+Name: Cake.Putty
+Nuget: Cake.Putty
+Assemblies:
+- "/**/Cake.Putty.dll"
+Repository: https://github.com/MihaMarkic/Cake.Putty
+Author: MihaMarkic
+Description: "Cake Build addin for Putty."
+Categories:
+- cake,
+- putty,
+- cake-build,
+- cake-contrib

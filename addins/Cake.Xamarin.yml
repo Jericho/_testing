@@ -1,0 +1,12 @@
+Name: Cake.Xamarin
+Nuget: Cake.Xamarin
+Assemblies:
+- "/**/Cake.Xamarin.dll"
+Repository: https://github.com/redth/Cake.Xamarin
+Author: redth
+Description: "Cake Build addon for Xamarin."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Xamarin

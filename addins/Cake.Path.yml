@@ -1,0 +1,11 @@
+Name: Cake.Path
+Nuget: Cake.Path
+Assemblies:
+- "/**/Cake.Path.dll"
+Repository: https://github.com/CleanKludge/Cake.Path
+Author: CleanKludge
+Description: "AddIn that extends Cake with ability to manipulate the PATH."
+Categories:
+- Cake,
+- Script,
+- Build

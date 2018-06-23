@@ -1,0 +1,13 @@
+Name: Cake.ResxConverter
+Nuget: Cake.ResxConverter
+Assemblies:
+- "/**/Cake.ResxConverter.dll"
+Repository: https://github.com/cake-contrib/Cake.ResxConverter
+Author: jzeferino, Luís Gonçalves
+Description: "Cake.ResxConverter allows the use of ResxConverter via Cake script."
+Categories:
+- resx,
+- convert,
+- xamarin,
+- net,
+- cake

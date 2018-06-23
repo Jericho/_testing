@@ -1,0 +1,11 @@
+Name: Cake.XComponent
+Nuget: Cake.XComponent
+Assemblies:
+- "/**/Cake.XComponent.dll"
+Repository: https://github.com/xcomponent/Cake.XComponent
+Author: xcomponent
+Description: "Cake addin for XComponent"
+Categories:
+- Cake,
+- XComponent,
+- Build

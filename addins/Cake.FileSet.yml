@@ -1,0 +1,11 @@
+Name: Cake.FileSet
+Nuget: Cake.FileSet
+Assemblies:
+- "/**/Cake.FileSet.dll"
+Repository: https://github.com/CleanKludge/Cake.FileSet
+Author: CleanKludge
+Description: "AddIn that adds filesets to Cake."
+Categories:
+- Cake,
+- Script,
+- File

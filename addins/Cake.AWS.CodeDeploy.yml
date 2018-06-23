@@ -1,0 +1,13 @@
+Name: Cake.AWS.CodeDeploy
+Nuget: Cake.AWS.CodeDeploy
+Assemblies:
+- "/**/Cake.AWS.CodeDeploy.dll"
+Repository: https://github.com/SharpeRAD/Cake.AWS.CodeDeploy
+Author: SharpeRAD
+Description: "Cake Build addon for Amazon CodeDeploy."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Amazon,
+- CodeDeploy

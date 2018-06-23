@@ -1,0 +1,14 @@
+Name: Cake.Topshelf
+Nuget: Cake.Topshelf
+Assemblies:
+- "/**/Cake.Topshelf.dll"
+Repository: https://github.com/SharpeRAD/Cake.Topshelf
+Author: SharpeRAD
+Description: "Cake Build addon for managing Topshelf services."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Topshelf,
+- Windows,
+- Service

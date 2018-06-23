@@ -1,0 +1,11 @@
+Name: Cake.Json
+Nuget: Cake.Json
+Assemblies:
+- "/**/Cake.Json.dll"
+Repository: https://github.com/cake-contrib/Cake.Json
+Author: Redth
+Description: "Cake Build addon for JSON Serialization and manipulation."
+Categories:
+- Cake,
+- Script,
+- Build

@@ -1,0 +1,13 @@
+Name: Cake.DependenciesAnalyser
+Nuget: Cake.DependenciesAnalyser
+Assemblies:
+- "/**/Cake.DependenciesAnalyser.dll"
+Repository: https://github.com/joaoasrosa/dotnet-project-dependencies-analyser
+Author: joaoasrosa
+Description: "Cake Build addin for check the dependencies of a project."
+Categories:
+- cake,
+- dependencies,
+- cake-build,
+- cake-contrib,
+- nuget

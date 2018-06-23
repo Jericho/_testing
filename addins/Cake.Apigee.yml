@@ -1,0 +1,12 @@
+Name: Cake.Apigee
+Nuget: Cake.Apigee
+Assemblies:
+- "/**/Cake.Apigee.dll"
+Repository: https://github.com/LittleColin/Cake.Apigee
+Author: LittleColin
+Description: "Cake Build addin for Apigee management API. Currently only handles proxy deployment."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Apigee

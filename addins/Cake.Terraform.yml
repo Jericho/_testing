@@ -1,0 +1,13 @@
+Name: Cake.Terraform
+Nuget: Cake.Terraform
+Assemblies:
+- "/**/Cake.Terraform.dll"
+Repository: https://github.com/cake-contrib/Cake.Terraform
+Author: Erik van Brakel
+Description: "Cake Terraform Addin."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Terraform,
+- Hashicorp

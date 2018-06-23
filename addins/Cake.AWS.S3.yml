@@ -1,0 +1,13 @@
+Name: Cake.AWS.S3
+Nuget: Cake.AWS.S3
+Assemblies:
+- "/**/Cake.AWS.S3.dll"
+Repository: https://github.com/SharpeRAD/Cake.AWS.S3
+Author: SharpeRAD
+Description: "Cake Build addon for transfering files to and from Amazon S3."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Amazon,
+- S3

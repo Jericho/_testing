@@ -1,0 +1,14 @@
+Name: Cake.Transifex
+Nuget: Cake.Transifex
+Assemblies:
+- "/**/Cake.Transifex.dll"
+Repository: https://github.com/cake-contrib/Cake.Transifex
+Author: Kim J. Nordmo
+Description: "Cake.Transifex is a addin for the Cake Build script adding support for working with the localization service Transifex.
+This addin requires that the transifex client is already installed and is available as `tx`.
+To install the transifex client, install python, then run `pip install transifex-client`."
+Categories:
+- cake,
+- build,
+- transifex,
+- localization

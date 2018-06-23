@@ -1,0 +1,12 @@
+Name: Cake.Paket
+Nuget: Cake.Paket
+Assemblies:
+- "/**/Cake.Paket.dll"
+Repository: https://github.com/cake-contrib/Cake.Paket
+Author: Larz White
+Description: "Paket addin for Cake."
+Categories:
+- Cake,
+- Script,
+- Build,
+- paket
