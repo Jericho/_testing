@@ -1,0 +1,12 @@
+Name: Cake.Nuget.Versioning
+Nuget: Cake.Nuget.Versioning
+Assemblies:
+- "/**/Cake.Nuget.Versioning.dll"
+Repository: https://github.com/Kemyke/Cake.Nuget.Versioning
+Author: Kemyke
+Description: "Cake Build addon to build Nuget version numbers"
+Categories:
+- Cake,
+- Nuget,
+- Version,
+- SemVer

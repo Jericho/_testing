@@ -1,0 +1,13 @@
+Name: Cake.Talend
+Nuget: Cake.Talend
+Assemblies:
+- "/**/Cake.Talend.dll"
+Repository: https://github.com/RadioSystems/Cake.Talend
+Author: RadioSystems
+Description: "Cake Addin for working with Talend Command Line and Metaservlet API from a Cake script."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Talend,
+- Addin

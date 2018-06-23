@@ -1,0 +1,17 @@
+Name: Cake.Apprenda
+Nuget: Cake.Apprenda
+Assemblies:
+- "/**/Cake.Apprenda.dll"
+Repository: https://github.com/apprenda/Cake.Apprenda/
+Author: apprenda
+Description: "Cake add-in to use Apprenda tools."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Apprenda,
+- ACS,
+- Apprenda,
+- Cloud,
+- Shell,
+- Addin

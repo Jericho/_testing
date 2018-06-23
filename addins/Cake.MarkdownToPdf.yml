@@ -1,0 +1,12 @@
+Name: Cake.MarkdownToPdf
+Nuget: Cake.MarkdownToPdf
+Assemblies:
+- "/**/Cake.MarkdownToPdf.dll"
+Repository: https://github.com/twenzel/Cake.MarkdownToPdf
+Author: twenzel
+Description: "Cake Addin for converting markdown files to pdf."
+Categories:
+- Cake,
+- Cakebuild,
+- markdown,
+- pdf

@@ -1,0 +1,11 @@
+Name: Cake.SonarScanner
+Nuget: Cake.SonarScanner
+Assemblies:
+- "/**/Cake.SonarScanner.dll"
+Repository: https://github.com/pitermarx/Cake.SonarScanner
+Author: pitermarx
+Description: "Cake aliases for SonarScanner. To be used in conjunction with the SonarScanner chocolatey package."
+Categories:
+- cake,
+- sonar,
+- sonar-scanner

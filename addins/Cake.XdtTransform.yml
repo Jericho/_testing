@@ -1,0 +1,12 @@
+Name: Cake.XdtTransform
+Nuget: Cake.XdtTransform
+Assemblies:
+- "/**/Cake.XdtTransform.dll"
+Repository: https://github.com/cake-contrib/Cake.XdtTransform
+Author: Jamie Phillips
+Description: "Helper to perform XDT based config file transforms."
+Categories:
+- Cake,
+- Transform,
+- Config,
+- XDT

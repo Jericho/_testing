@@ -1,0 +1,12 @@
+Name: Cake.MiniCover
+Nuget: Cake.MiniCover
+Assemblies:
+- "/**/Cake.MiniCover.dll"
+Repository: https://github.com/nlowe/Cake.MiniCover
+Author: nlowe
+Description: "Cake Aliases for https://github.com/lucaslorentz/minicover"
+Categories:
+- cake,
+- minicover,
+- cake-build,
+- cake-contrib

@@ -1,0 +1,9 @@
+Name: Cake.OctoVariapus
+Nuget: Cake.OctoVariapus
+Assemblies:
+- "/**/Cake.OctoVariapus.dll"
+Repository: https://github.com/osoykan/Cake.OctoVariapus
+Author: osoykan
+Description: "Package Description"
+Categories:
+

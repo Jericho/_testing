@@ -1,0 +1,12 @@
+Name: Cake.Yaml
+Nuget: Cake.Yaml
+Assemblies:
+- "/**/Cake.Yaml.dll"
+Repository: https://github.com/cake-contrib/Cake.Yaml
+Author: Redth
+Description: "Cake Build addon for YAML Serialization."
+Categories:
+- Cake,
+- Script,
+- Build,
+- YAML

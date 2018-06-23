@@ -1,0 +1,10 @@
+Name: Cake.WinSCP
+Nuget: Cake.WinSCP
+Assemblies:
+- "/**/Cake.WinSCP.dll"
+Repository: https://github.com/ilich/Cake.WinSCP
+Author: ilich
+Description: "Cake AddIn to upload files using WinSCP."
+Categories:
+- Cake,
+- Deployment

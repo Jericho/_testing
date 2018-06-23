@@ -1,0 +1,12 @@
+Name: Cake.Services
+Nuget: Cake.Services
+Assemblies:
+- "/**/Cake.Services.dll"
+Repository: https://github.com/SharpeRAD/Cake.Services
+Author: SharpeRAD
+Description: "Cake Build addon for Windows services."
+Categories:
+- Cake,
+- Script,
+- Build,
+- WindowsService

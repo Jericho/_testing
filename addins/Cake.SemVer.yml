@@ -1,0 +1,11 @@
+Name: Cake.SemVer
+Nuget: Cake.SemVer
+Assemblies:
+- "/**/Cake.SemVer.dll"
+Repository: https://github.com/cake-contrib/Cake.SemVer
+Author: Redth
+Description: "Cake Build addon to provide Semantice Versioning classes and aliases."
+Categories:
+- Cake,
+- Script,
+- Build

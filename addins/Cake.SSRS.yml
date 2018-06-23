@@ -1,0 +1,14 @@
+Name: Cake.SSRS
+Nuget: Cake.SSRS
+Assemblies:
+- "/**/Cake.SSRS.dll"
+Repository: https://github.com/cake-contrib/Cake.SSRS
+Author: louisfischer
+Description: "SQL Server Reporting Services addin for cake build."
+Categories:
+- cake,
+- script,
+- build,
+- reporting,
+- ssrs,
+- sql-server

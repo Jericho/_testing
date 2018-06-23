@@ -1,0 +1,13 @@
+Name: Cake.SendGrid
+Nuget: Cake.SendGrid
+Assemblies:
+- "/**/Cake.SendGrid.dll"
+Repository: https://github.com/cake-contrib/Cake.SendGrid/
+Author: Jericho
+Description: "Cake Build addin to provide Aliases for sending emails via SendGrid."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Email,
+- SendGrid

@@ -1,0 +1,14 @@
+Name: Cake.Raygun
+Nuget: Cake.Raygun
+Assemblies:
+- "/**/Cake.Raygun.dll"
+Repository: https://github.com/cake-contrib/Cake.Raygun
+Author: Geoffrey Huntley
+Description: "Cake Build addin for Raygun."
+Categories:
+- Cake,
+- Script,
+- Build,
+- Xamarin,
+- iOS,
+- Raygun

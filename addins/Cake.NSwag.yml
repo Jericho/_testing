@@ -1,0 +1,13 @@
+Name: Cake.NSwag
+Nuget: Cake.NSwag
+Assemblies:
+- "/**/Cake.NSwag.dll"
+Repository: https://github.com/agc93/Cake.NSwag/
+Author: agc93
+Description: "A simple Cake addin powered by NSwag for compiling client code and API definitions from a variety of sources"
+Categories:
+- cake,
+- build,
+- script,
+- swagger,
+- api

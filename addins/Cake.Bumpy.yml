@@ -1,0 +1,14 @@
+Name: Cake.Bumpy
+Nuget: Cake.Bumpy
+Assemblies:
+- "/**/Cake.Bumpy.dll"
+Repository: https://github.com/cake-contrib/Cake.Bumpy
+Author: fwinkelbauer
+Description: "Cake AddIn for the version management command line tool Bumpy"
+Categories:
+- Cake,
+- Script,
+- Versioning,
+- Build,
+- AssemblyInfo,
+- NuSpec

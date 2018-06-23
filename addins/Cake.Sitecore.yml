@@ -1,0 +1,13 @@
+Name: Cake.Sitecore
+Nuget: Cake.Sitecore
+Assemblies:
+- "/**/Cake.Sitecore.dll"
+Repository: https://github.com/asmagin/Cake.Sitecore
+Author: asmagin
+Description: "My package description."
+Categories:
+- sitecore,
+- cake,
+- build,
+- helix,
+- powershell

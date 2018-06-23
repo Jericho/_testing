@@ -1,0 +1,13 @@
+Name: Cake.Markdownlint
+Nuget: Cake.Markdownlint
+Assemblies:
+- "/**/Cake.Markdownlint.dll"
+Repository: https://github.com/cake-contrib/Cake.Markdownlint
+Author: BBT Software AG and contributors
+Description: "This addin for Cake allows you to lint Markdown files using markdownlint."
+Categories:
+- Cake,
+- Script,
+- Linting,
+- Markdown,
+- Markdownlint

@@ -1,0 +1,9 @@
+Name: Cake.StrongNameTool
+Nuget: Cake.StrongNameTool
+Assemblies:
+- "/**/Cake.StrongNameTool.dll"
+Repository: https://github.com/SaferSocietyGroup/cake.strongnametool
+Author: SaferSocietyGroup
+Description: "Cake addin to help with the resigning and verifying of .NET assemblies using sn.exe"
+Categories:
+

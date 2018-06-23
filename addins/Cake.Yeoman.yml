@@ -1,0 +1,11 @@
+Name: Cake.Yeoman
+Nuget: Cake.Yeoman
+Assemblies:
+- "/**/Cake.Yeoman.dll"
+Repository: https://github.com/cake-contrib/Cake.Yeoman
+Author: BBT Software AG
+Description: "Yeoman Addin for Cake Build Automation System"
+Categories:
+- Cake,
+- Script,
+- Yeoman

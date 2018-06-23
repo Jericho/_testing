@@ -1,0 +1,13 @@
+Name: Cake.Kudu
+Nuget: Cake.Kudu
+Assemblies:
+- "/**/Cake.Kudu.dll"
+Repository: https://github.com/cake-contrib/Cake.Kudu/
+Author: WCOM AB
+Description: "Cake add-in to help with Kudu deployments using C#"
+Categories:
+- Cake,
+- Script,
+- Build,
+- Microsoft,
+- Teams

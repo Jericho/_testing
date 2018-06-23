@@ -1,0 +1,13 @@
+Name: Cake.Tfs.Build.Variables
+Nuget: Cake.Tfs.Build.Variables
+Assemblies:
+- "/**/Cake.Tfs.Build.Variables.dll"
+Repository: https://github.com/Kemyke/Cake.Tfs.Build.Variables
+Author: Kemyke
+Description: "Cake Build addon to evaluate Tfs Build (vNext) variables"
+Categories:
+- Cake,
+- Tfs,
+- VNext,
+- Build,
+- Variable

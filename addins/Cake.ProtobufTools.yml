@@ -1,0 +1,12 @@
+Name: Cake.ProtobufTools
+Nuget: Cake.ProtobufTools
+Assemblies:
+- "/**/Cake.ProtobufTools.dll"
+Repository: https://github.com/cake-contrib/Cake.ProtobufTools
+Author: Miha Markic, Cake Contributors
+Description: "ProtobufTools Addin for runing Google's Protobuf protoc tool."
+Categories:
+- Cake,
+- Script,
+- CodeGenerator,
+- ProtobufTools

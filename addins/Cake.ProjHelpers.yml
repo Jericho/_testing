@@ -1,0 +1,14 @@
+Name: Cake.ProjHelpers
+Nuget: Cake.ProjHelpers
+Assemblies:
+- "/**/Cake.ProjHelpers.dll"
+Repository: https://github.com/orialmog/Cake.ProjHelpers
+Author: orialmog
+Description: "Cake AddIn to embed files into .proj files"
+Categories:
+- Cake,
+- Script,
+- Build,
+- Resources,
+- Embed,
+- Task

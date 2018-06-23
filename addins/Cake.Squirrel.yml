@@ -1,0 +1,10 @@
+Name: Cake.Squirrel
+Nuget: Cake.Squirrel
+Assemblies:
+- "/**/Cake.Squirrel.dll"
+Repository: https://github.com/cake-contrib/Cake.Squirrel
+Author: phillipsj
+Description: "Cake Addin to Add Squirrel.Windows support."
+Categories:
+- Cake,
+- Squirrel
